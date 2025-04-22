@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=101010)
 
-🌱 A pesar de ya haber tenido experiencia en Automation Testing continuo perfeccionando mis habilidades de Python con el curso Python Essentianls 1 de Cisco Networking Academy en su plataforma Netcad, JavaScript en MIMO y Selenium; esto debido a que  es de mi profundo interés tanto el aprender a programar como el contar con habilidades de Automatización de pruebas.
+🌱 A pesar de ya haber tenido experiencia en Automation Testing continuo perfeccionando mis habilidades de Python con el curso Python Essentianls 1 de Cisco Networking Academy en su plataforma Netcad; esto debido a que  es de mi profundo interés tanto el aprender a programar como el contar con habilidades de Automatización de pruebas.
 
 🔭 Me encuentro activamente en búsqueda de una empresa o un equipo al cual pueda sumar valor con mis habilidades, ponerlas en práctica y hacerme de excelentes amistades y networking en el camino.
 
