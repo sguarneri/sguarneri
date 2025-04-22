@@ -14,7 +14,7 @@
 - 📍 Puedes encontrarme en:
 linkedin y por correo electrónico
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)</br>
-![Gmail](https://img.shields.io/badge/Gmail-3DDC84?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)</br>
+![LinkedIn](https://img.shields.io/badge/LinkedIn-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)l(https://www.linkedin.com/in/sguarneri) </br>
+![Gmail](https://img.shields.io/badge/Gmail-3DDC84?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)l(alfredo.sebastian09@gmail.com) </br>
 
 
